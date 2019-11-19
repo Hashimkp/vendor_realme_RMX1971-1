@@ -818,6 +818,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_low_light_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_low_light_hdr.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_low_light_hdr_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_low_light_hdr_raw.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_picauto.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_picauto.so \
+    vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_portraitSN_hvx_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_portraitSN_hvx_stub.so \
+    vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_portrait_super_night_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_portrait_super_night_raw.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_relighting_pro_image.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_relighting_pro_image.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_smart_denoise.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_smart_denoise.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libarcsoft_super_night_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_super_night_raw.so \
@@ -1028,6 +1030,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libarcsoft_hdr_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_hdr_hvx_skel.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libarcsoft_llhdr_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_llhdr_hvx_skel.so \
+    vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libarcsoft_portraitSN_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_portraitSN_hvx_skel.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libdepthmap_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libdepthmap_skel.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libfastcvadsp.so \
